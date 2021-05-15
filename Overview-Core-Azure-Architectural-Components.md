@@ -34,3 +34,13 @@ One user can have multiple subscriptions.
 
 Useful for setting up policies on subscriptions.
 
+## Resources
+Instances of services, created by the user.
+
+## Azure Resource Manager
+There are many different ways to access azure
+
+> Like Web Portal, Azure Shell, Visual Studio
+
+
+These are all handled by Azure Resource Manager API, It can handle public and hybrid cloud models.
