@@ -1,3 +1,5 @@
+# Benefits Of Cloud
+
 ## Scalability
 
 The cloud allows us to scale our allocated resources depending upon the required resources.
@@ -33,6 +35,7 @@ Nicrosoft provides top notch physical security for its data centers, they are lo
 Azure provedes a plethora of services which one can use, the services cover almost all the required tools, infrastructure etc which may ben needed for an application.
 
 ## Cost Savings
+
 One major benefit of cloud computing is cost effectiveness.
 
 The major reason that microsoft can do this is due to the huge number of servers they procure at once.
