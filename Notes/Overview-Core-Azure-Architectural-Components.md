@@ -1,9 +1,11 @@
+# Azure Architectural Components
+
 ## Regions
 
 The global map is divided into 60+ regions, these are physical locations in which the servers exist.
 Not all regions are available to everyone, some of them have restrictions on them.
 
-> e.g - China regions are not available to everyone.
+> e.g - China and Germany regions are not available to everyone. Some government regions are also hidden.
 
 ## Region Pairs
 
@@ -35,12 +37,13 @@ One user can have multiple subscriptions.
 Useful for setting up policies on subscriptions.
 
 ## Resources
+
 Instances of services, created by the user.
 
 ## Azure Resource Manager
+
 There are many different ways to access azure
 
 > Like Web Portal, Azure Shell, Visual Studio
-
 
 These are all handled by Azure Resource Manager API, It can handle public and hybrid cloud models.
