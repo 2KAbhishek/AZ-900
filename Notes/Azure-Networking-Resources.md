@@ -1,52 +1,62 @@
 # Networking Resources
+
 There are several networking resources available on Azure
 
-# Types Of Networking Services
-# Connectivity Services
+## Connectivity Services
 
-## Virtual Networks
-Emulates a physical network, used by virtual machines and other services.
-It's just software configuration actual networking is done using Microsoft Global Network.
+- Virtual Networks
 
-## VPN Gateway
-Connects two networks throug a tunnel as if they were on the same network, uses a Network Gateway
+  Emulates a physical network, used by virtual machines and other services.
+  It's just software configuration actual networking is done using Microsoft Global Network.
 
-## ExpressRoute
-High speed private connection to provided by Azure.
+- VPN Gateway
 
-## VNet Peering
+  Connects two networks throug a tunnel as if they were on the same network, uses a Network Gateway
 
-# Protection Services
+- ExpressRoute
 
-## DDos Protection
-Basic level of DDos protection by Microsoft.
+  High speed private connection to provided by Azure.
 
-## Azure Firewall
-Protects the network by filtering incoming and outgoing traffic depending upon certain rules.
+- VNet Peering
 
-## Network Security Groups
-Basic type of firewall, also known as Access Control List, has a static list of IPs to allow or deny.
+## Protection Services
 
-## Private Link
+- DDos Protection
 
-# Delivery Services
+  Basic level of DDos protection by Microsoft.
 
-## Load Balancers
-Distributes traffic evenly among multiple server for optimatl response times.
+- Azure Firewall
 
-## Application Gateway
-A higher level of load balancer with an optional firewall.
+  Protects the network by filtering incoming and outgoing traffic depending upon certain rules.
 
-## Content Delivery Netwoek
-Stores common static files on the edge, closer to the users for improved performance.
+- Network Security Groups
 
-## Azure Front Door Serive
-Combines a load balancer, a CDN and a firewall.
+  Basic type of firewall, also known as Access Control List, has a static list of IPs to allow or deny.
 
-# Monitoring Serives
+- Private Link
 
-## Netwoek Watcher
+## Delivery Services
 
-## ExpressRoute Monitor
+- Load Balancers
 
-## Azure Monitor
+  Distributes traffic evenly among multiple server for optimatl response times.
+
+- Application Gateway
+
+  A higher level of load balancer with an optional firewall.
+
+- Content Delivery Netwoek
+
+  Stores common static files on the edge, closer to the users for improved performance.
+
+- Azure Front Door Serive
+
+  Combines a load balancer, a CDN and a firewall.
+
+## Monitoring Serives
+
+- Netwoek Watcher
+
+- ExpressRoute Monitor
+
+- Azure Monitor
