@@ -16,9 +16,9 @@ Not an equivalent of Active Directory.
 - Efficient: Reduces development time with easier support.
 - Cetralied administration: For managing all access and authorization.
 - Single Sign-On: Integrates with Windows Active directory to use same User ID and Password for all apps.
+- Conditional Access: Detects unusal activity and requires extra authentication if needed.
+- Multi Factor Authentication: Requires 2 or more unique evidences or proofs for authentication. Ex - SMS, Biometric etc (Something you know, have or are)
 - Integrates with other Azure services like storage and databases.
-- Multi Factor Authentication
 - Just In Time access
 - User access reviews
-- Conditional access
 - More
