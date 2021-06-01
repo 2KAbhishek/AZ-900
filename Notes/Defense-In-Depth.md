@@ -1,6 +1,6 @@
 # Defense In Depth
 
-Microsoft has a cencept called defense in depth, which emforces security on all different layers of the network instead of just a single point of failure.
+Microsoft has a concept called defense in depth, which enforces security on all different layers of the network instead of just a single point of failure.
 
 ## various Security Layers
 
