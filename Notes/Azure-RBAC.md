@@ -1,6 +1,6 @@
 # Azure Role Based Access Control
 
-Microsoft's preferred solution for accesss control.
+Microsoft's preferred solution for access control.
 Creates different roles that represent common tasks for a job.
 Then assigns granular permissions to each role.
 Finally assigns individual users to each role.
@@ -20,4 +20,4 @@ Useful for protecting production resources and resource groups from being delete
 
 ## Resource Tags
 
-Useful for providing metadata for resources for easier identifation and grouping.
+Useful for providing metadata for resources for easier identification and grouping.
