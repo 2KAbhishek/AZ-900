@@ -17,10 +17,10 @@ Example: Office 365, Active directory
 Abstraction over PaaS.
 We interact with a pre existing application on the cloud.
 
-### Shared Responsiblity Model
+### Shared Responsibility Model
 
-The responsilbilty related to security the customer and cloud provider have to share.
+The responsibility related to security the customer and cloud provider have to share.
 
 Physical security is always with the cloud provider.
 Information and data, devices, accounts and identifiers are always customer responsibilities.
-Responsiblites are shared by service type, for example: In IaaS OS will be your responsibility but not so for PaaS and SaaS.
+Responsibilities are shared by service type, for example: In IaaS OS will be your responsibility but not so for PaaS and SaaS.

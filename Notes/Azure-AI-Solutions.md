@@ -4,9 +4,9 @@
 
 Enables various machine learning algorithms in custom apps.
 
-## Cognitive Serives
+## Cognitive Services
 
-Contains a group of APIs that can be used in any application, provides things like computer vision, text to speect, speech to text, translation etc. Also provides APIs for things like adult content filters and moderation.
+Contains a group of APIs that can be used in any application, provides things like computer vision, text to speech, speech to text, translation etc. Also provides APIs for things like adult content filters and moderation.
 
 ## Azure Bot Service
 

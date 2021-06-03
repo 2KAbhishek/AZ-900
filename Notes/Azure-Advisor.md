@@ -2,7 +2,7 @@
 
 Analyzes your Azure usage and makes suggestions on how to improve.
 
-Suggestions are made accross 5 categories:
+Suggestions are made across 5 categories:
 
 - High Availability
 - Security

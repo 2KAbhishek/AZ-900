@@ -3,7 +3,7 @@
 ## Scalability
 
 The cloud allows us to scale our allocated resources depending upon the required resources.
-The cloud can scale upto infinite resources unless the application itself has bottlenecks, like database and router issues.
+The cloud can scale up to infinite resources unless the application itself has bottlenecks, like database and router issues.
 
 ## Elasticity
 
@@ -20,7 +20,7 @@ The speed with which we can setup a server and get it running on the cloud is mu
 
 ## Disaster Recovery
 
-The ability of a system to recover from faiure within a period of time and how much data is lost.
+The ability of a system to recover from failure within a period of time and how much data is lost.
 
 ## Global Reach
 

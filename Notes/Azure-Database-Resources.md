@@ -17,7 +17,7 @@ Managed MySQL database, makes migration easier if on prem uses MySQL.
 
 ### Azure SQL Database for PostgreSQL
 
-Managed PostgreSQL database, has better seupport for clusters and more complex server setups.
+Managed PostgreSQL database, has better support for clusters and more complex server setups.
 
 ## SQL Managed Instance
 

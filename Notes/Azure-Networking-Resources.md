@@ -11,7 +11,7 @@ There are several networking resources available on Azure
 
 - VPN Gateway
 
-  Connects two networks throug a tunnel as if they were on the same network, uses a Network Gateway
+  Connects two networks through a tunnel as if they were on the same network, uses a Network Gateway
 
 - ExpressRoute
 
@@ -45,17 +45,17 @@ There are several networking resources available on Azure
 
   A higher level of load balancer with an optional firewall.
 
-- Content Delivery Netwoek
+- Content Delivery Network
 
   Stores common static files on the edge, closer to the users for improved performance.
 
-- Azure Front Door Serive
+- Azure Front Door Service
 
   Combines a load balancer, a CDN and a firewall.
 
-## Monitoring Serives
+## Monitoring Services
 
-- Netwoek Watcher
+- Network Watcher
 
 - ExpressRoute Monitor
 

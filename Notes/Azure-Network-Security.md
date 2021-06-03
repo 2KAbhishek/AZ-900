@@ -4,7 +4,7 @@
 
 NSG is a static set of rules which protects the network, also known as Access Control List.
 Certain IPs will have access to certain ports only, It is deny by default.
-A virtual network can be divided into subnets, we can have public facing services on a seperate subnet and the critical back end services on a more protected subnet.
+A virtual network can be divided into subnets, we can have public facing services on a separate subnet and the critical back end services on a more protected subnet.
 
 ## Azure Firewall
 
