@@ -63,52 +63,32 @@
 - [Types Of Cloud](https://2kabhishek.github.io/AZ-900/Notes/Types-Of-Cloud)
 - [Types Of Services](https://2kabhishek.github.io/AZ-900/Notes/Types-Of-Services)
 
-
 ## Inspiration
 
-AZ-900 was inspired by `<reason/idea>`.
+Helping out my future self and others, for quickly going through the concepts if needed.
 
 ## What it does
 
-AZ-900 is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+AZ-900 is a collection of notes created while learning about Azure Fundamentals, useful if preparing for the AZ-900 exam.
 
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
--   You have installed the latest version of `<coding_language/dependency/requirement_1>`
-
-## Installing AZ-900
+## Getting AZ-900
 
 To install AZ-900, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/AZ-900
-cd AZ-900
-<install_command>
+cd AZ-900/Notes
+# Open the notes in your favourite viewer
+# Visit https://2kabhishek.github.io/AZ-900 for a web version
 ```
-
-## How it was built
-
-AZ-900 was built using `<tech/library>`
-
-## Challenges faced
-
-While building AZ-900 the main challenges were `<issue/difficulty>`
 
 ## What I learned
 
-While building AZ-900 I `<learned/accomplished>` about `<learning/accomplishment>`
+Learned about different services that Azure provides along with general cloud concepts.
 
 ## What's next
 
-Planning to add `<feature/module>`.
-
-### To-Do
-
--   [x] Setup repo
--   [ ] Think real hard
--   [ ] Start typing
+Dive deeper into Azure concepts and get more hands-on experience.
 
 Hit the :star: button if you found this useful.
 
