@@ -90,7 +90,7 @@ Learned about different services that Azure provides along with general cloud co
 
 Dive deeper into Azure concepts and get more hands-on experience.
 
-Hit the :star: button if you found this useful.
+Hit the ⭐ button if you found this useful.
 
 ## More Info
 
