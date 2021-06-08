@@ -2,7 +2,7 @@
 
 <h1><a href="https://2kabhishek.github.io/AZ-900">AZ-900</a></h1>
 
-<a href="https://github.com/2KAbhishek/AZ-900/blob/master/LICENSE">
+<a href="https://2kabhishek.github.io/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/2kabhishek/AZ-900?style=plastic&color=white&label=License"> </a>
 
 <a href="https://github.com/2KAbhishek/AZ-900/pulse">
@@ -25,13 +25,44 @@
 
 <h2>Short sweet headline with 🎇🎉</h2>
 
-<figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/AZ-900/master/images/screenshot.jpg" alt="AZ-900 Demo" style="width:100%">
-  <br/>
-  <figcaption>AZ-900 Screenshot</figcaption>
-</figure>
-
 </div>
+
+## Contents
+
+- [Authentication-Vs-Authorization](https://2kabhishek.github.io/AZ-900/Notes/Authentication-Vs-Authorization)
+- [Azure AI Solutions](https://2kabhishek.github.io/AZ-900/Notes/Azure-AI-Solutions)
+- [Azure Active Directory](https://2kabhishek.github.io/AZ-900/Notes/Azure-Active-Directory)
+- [Azure Advisor](https://2kabhishek.github.io/AZ-900/Notes/Azure-Advisor)
+- [Azure Big Data Solutions](https://2kabhishek.github.io/AZ-900/Notes/Azure-Big-Data-Solutions)
+- [Azure Compute Resources](https://2kabhishek.github.io/AZ-900/Notes/Azure-Compute-Resources)
+- [Azure Database Resources](https://2kabhishek.github.io/AZ-900/Notes/Azure-Database-Resources)
+- [Azure DevOps Solutions](https://2kabhishek.github.io/AZ-900/Notes/Azure-DevOps-Solutions)
+- [Azure Identity Services](https://2kabhishek.github.io/AZ-900/Notes/Azure-Identity-Services)
+- [Azure IoT Solutions](https://2kabhishek.github.io/AZ-900/Notes/Azure-IoT-Solutions)
+- [Azure Management Tools](https://2kabhishek.github.io/AZ-900/Notes/Azure-Management-Tools)
+- [Azure Marketplace](https://2kabhishek.github.io/AZ-900/Notes/Azure-Marketplace)
+- [Azure Monitor](https://2kabhishek.github.io/AZ-900/Notes/Azure-Monitor)
+- [Azure Network Security](https://2kabhishek.github.io/AZ-900/Notes/Azure-Network-Security)
+- [Azure Networking Resources](https://2kabhishek.github.io/AZ-900/Notes/Azure-Networking-Resources)
+- [Azure Policy](https://2kabhishek.github.io/AZ-900/Notes/Azure-Policy)
+- [Azure Pricing Calculator](https://2kabhishek.github.io/AZ-900/Notes/Azure-Pricing-Calculator)
+- [Azure Pricing](https://2kabhishek.github.io/AZ-900/Notes/Azure-Pricing)
+- [Azure RBAC](https://2kabhishek.github.io/AZ-900/Notes/Azure-RBAC)
+- [Azure Resource Manager](https://2kabhishek.github.io/AZ-900/Notes/Azure-Resource-Manager)
+- [Azure Security](https://2kabhishek.github.io/AZ-900/Notes/Azure-Security)
+- [Azure Serverless Solutions](https://2kabhishek.github.io/AZ-900/Notes/Azure-Serverless-Solutions)
+- [Azure Service Level Agreements](https://2kabhishek.github.io/AZ-900/Notes/Azure-Service-Level-Agreements)
+- [Azure Storage Resources](https://2kabhishek.github.io/AZ-900/Notes/Azure-Storage-Resources)
+- [Azure Trust Center](https://2kabhishek.github.io/AZ-900/Notes/Azure-Trust-Center)
+- [Azure Trusted Cloud](https://2kabhishek.github.io/AZ-900/Notes/Azure-Trusted-Cloud)
+- [Benefits Of Cloud](https://2kabhishek.github.io/AZ-900/Notes/Benefits-Of-Cloud)
+- [Defense In Depth](https://2kabhishek.github.io/AZ-900/Notes/Defense-In-Depth)
+- [Minimizing Azure Costs](https://2kabhishek.github.io/AZ-900/Notes/Minimizing-Azure-Costs)
+- [Overview Core Azure Architectural Components](https://2kabhishek.github.io/AZ-900/Notes/Overview-Core-Azure-Architectural-Components)
+- [Serverless](https://2kabhishek.github.io/AZ-900/Notes/Serverless)
+- [Types Of Cloud](https://2kabhishek.github.io/AZ-900/Notes/Types-Of-Cloud)
+- [Types Of Services](https://2kabhishek.github.io/AZ-900/Notes/Types-Of-Services)
+
 
 ## Inspiration
 
@@ -55,58 +86,6 @@ To install AZ-900, follow these steps:
 git clone https://github.com/2kabhishek/AZ-900
 cd AZ-900
 <install_command>
-```
-
-## Using AZ-900
-
-[Authentication-Vs-Authorization](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Authentication-Vs-Authorization.md)
-[Azure AI Solutions](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-AI-Solutions.md)
-[Azure Active Directory](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Active-Directory.md)
-[Azure Advisor](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Advisor.md)
-[Azure Big Data Solutions](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Big-Data-Solutions.md)
-[Azure Compute Resources](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Compute-Resources.md)
-[Azure Database Resources](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Database-Resources.md)
-[Azure DevOps Solutions](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-DevOps-Solutions.md)
-[Azure Identity Services](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Identity-Services.md)
-[Azure IoT Solutions](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-IoT-Solutions.md)
-[Azure Management Tools](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Management-Tools.md)
-[Azure Marketplace](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Marketplace.md)
-[Azure Monitor](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Monitor.md)
-[Azure Network Security](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Network-Security.md)
-[Azure Networking Resources](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Networking-Resources.md)
-[Azure Policy](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Policy.md)
-[Azure Pricing Calculator](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Pricing-Calculator.md)
-[Azure Pricing](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Pricing.md)
-[Azure RBAC](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-RBAC.md)
-[Azure Resource Manager](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Resource-Manager.md)
-[Azure Security](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Security.md)
-[Azure Serverless Solutions](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Serverless-Solutions.md)
-[Azure Service Level Agreements](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Service-Level-Agreements.md)
-[Azure Storage Resources](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Storage-Resources.md)
-[Azure Trust Center](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Trust-Center.md)
-[Azure Trusted Cloud](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Trusted-Cloud.md)
-[Benefits Of Cloud](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Benefits-Of-Cloud.md)
-[Defense In Depth](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Defense-In-Depth.md)
-[Minimizing Azure Costs](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Minimizing-Azure-Costs.md)
-[Overview Core Azure Architectural Components](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Overview-Core-Azure-Architectural-Components.md)
-[Serverless](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Serverless.md)
-[Types Of Cloud](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Types-Of-Cloud.md)
-[Types Of Services](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Types-Of-Services.md)
-
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
 ```
 
 ## How it was built
