@@ -35,7 +35,7 @@
 
 ## Inspiration
 
-Bareminimum was inspired by `<reason/idea>`.
+AZ-900 was inspired by `<reason/idea>`.
 
 ## What it does
 
@@ -45,7 +45,7 @@ AZ-900 is a `<utility/tool/feature>` that allows `<insert_target_audience>` to d
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+-   You have installed the latest version of `<coding_language/dependency/requirement_1>`
 
 ## Installing AZ-900
 
@@ -58,6 +58,40 @@ cd AZ-900
 ```
 
 ## Using AZ-900
+
+[Authentication-Vs-Authorization](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Authentication-Vs-Authorization.md)
+[Azure AI Solutions](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-AI-Solutions.md)
+[Azure Active Directory](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Active-Directory.md)
+[Azure Advisor](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Advisor.md)
+[Azure Big Data Solutions](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Big-Data-Solutions.md)
+[Azure Compute Resources](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Compute-Resources.md)
+[Azure Database Resources](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Database-Resources.md)
+[Azure DevOps Solutions](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-DevOps-Solutions.md)
+[Azure Identity Services](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Identity-Services.md)
+[Azure IoT Solutions](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-IoT-Solutions.md)
+[Azure Management Tools](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Management-Tools.md)
+[Azure Marketplace](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Marketplace.md)
+[Azure Monitor](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Monitor.md)
+[Azure Network Security](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Network-Security.md)
+[Azure Networking Resources](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Networking-Resources.md)
+[Azure Policy](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Policy.md)
+[Azure Pricing Calculator](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Pricing-Calculator.md)
+[Azure Pricing](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Pricing.md)
+[Azure RBAC](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-RBAC.md)
+[Azure Resource Manager](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Resource-Manager.md)
+[Azure Security](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Security.md)
+[Azure Serverless Solutions](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Serverless-Solutions.md)
+[Azure Service Level Agreements](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Service-Level-Agreements.md)
+[Azure Storage Resources](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Storage-Resources.md)
+[Azure Trust Center](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Trust-Center.md)
+[Azure Trusted Cloud](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Azure-Trusted-Cloud.md)
+[Benefits Of Cloud](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Benefits-Of-Cloud.md)
+[Defense In Depth](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Defense-In-Depth.md)
+[Minimizing Azure Costs](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Minimizing-Azure-Costs.md)
+[Overview Core Azure Architectural Components](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Overview-Core-Azure-Architectural-Components.md)
+[Serverless](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Serverless.md)
+[Types Of Cloud](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Types-Of-Cloud.md)
+[Types Of Services](https://github.com/2KAbhishek/Dotfiles/blob/master/Notes/Types-Of-Services.md)
 
 ```bash
 USAGE:
@@ -93,9 +127,9 @@ Planning to add `<feature/module>`.
 
 ### To-Do
 
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
+-   [x] Setup repo
+-   [ ] Think real hard
+-   [ ] Start typing
 
 Hit the :star: button if you found this useful.
 
