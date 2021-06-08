@@ -73,7 +73,7 @@ AZ-900 is a collection of notes created while learning about Azure Fundamentals,
 
 ## Getting AZ-900
 
-To install AZ-900, follow these steps:
+To get AZ-900 locally, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/AZ-900
