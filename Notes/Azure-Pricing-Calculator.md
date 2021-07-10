@@ -4,7 +4,7 @@ Azure provides a tool for estimating the cost of services, it provides various p
 
 ## Total Cost of Ownership Calculator
 
-The cost of a server is always more than the cost of the server itself, it will include the cost of things like Electricity, Internet, Space etc.
+The cost of running a server is always more than the cost of the server itself, it will include the cost of things like Electricity, Internet, Space etc.
 This is known as the total cost. This is used to calculate the cost of running the services on Azure vs running the services on premise.
 
 ## Azure Cost Management
