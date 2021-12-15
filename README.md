@@ -31,7 +31,6 @@
 
 - [Authentication-Vs-Authorization](https://2kabhishek.github.io/AZ-900/Notes/Authentication-Vs-Authorization)
 - [Azure AI Solutions](https://2kabhishek.github.io/AZ-900/Notes/Azure-AI-Solutions)
-- [Azure Active Directory](https://2kabhishek.github.io/AZ-900/Notes/Azure-Active-Directory)
 - [Azure Advisor](https://2kabhishek.github.io/AZ-900/Notes/Azure-Advisor)
 - [Azure Big Data Solutions](https://2kabhishek.github.io/AZ-900/Notes/Azure-Big-Data-Solutions)
 - [Azure Compute Resources](https://2kabhishek.github.io/AZ-900/Notes/Azure-Compute-Resources)
